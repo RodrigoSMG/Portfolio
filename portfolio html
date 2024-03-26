@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio do Rodrigo</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header>
+        <p>Rodrigo Gomes</p>
+        <nav>
+            <ul>
+                <li>
+                    <a>Home</a>
+                </li>
+                <li>
+                    <a>Sobre</a>
+                </li>
+                <li>
+                    <a>Projetos</a>
+                </li>
+             </ul>
+        </nav>
+    </header>
+    <h1>Meu Portfólio</h1>
+    <p>Aqui vou falar sobre meu aprendizado na área técnica</p>
+    <h1>Sobre Mim</h1>
+    <p>Meu nome é Rodrigo,estudo no Senai a 1 ano,e faço o curso integrado de desenvolvimento de sistemas,
+        e com isso pretendo adquirir uma boa experência nessa área
+    </p>
+    <h1>Meu perfil no Git Hub:</h1>
+    <a href="https://github.com/RodrigoSMG">https://github.com/RodrigoSMG</a>
+    <h1>Trabalho Do Class</h1>
+    <a href="https://docs.google.com/presentation/d/1rgG-PV-O--3IJo_SvOUiYSdWT9xnlJsYSit72j6InKM/edit#slide=id.p1">Trabalho</a>
+    <h1>Trabalho da Montagem do Pc</h1>
+    <a href="https://www.canva.com/design/DAF-RUj_T2I/pKXBJssZ4p9hLCbMNY3ZcA/edit?utm_content=DAF-RUj_T2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">PC Gamer</a>
+   <Style>
+body{
+    background-color:#50518bc9
+}
+      
+   
+   </Style> 
+</body>
+</html><index.html>
